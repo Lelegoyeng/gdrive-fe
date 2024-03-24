@@ -6,7 +6,6 @@ const Navbar = () => {
     return (
         <div className="Navbar">
             <div className="bg-black text-white p-4 flex flex-col md:flex-row items-center justify-between">
-                {/* Logo and App Name */}
                 <div>
                     <Link
                         className="flex items-center mb-4 md:mb-0"
